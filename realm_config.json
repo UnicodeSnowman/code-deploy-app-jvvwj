@@ -1,0 +1,7 @@
+{
+    "app_id": "code-deploy-app-jvvwj",
+    "config_version": 20210101,
+    "name": "code-deploy-app",
+    "location": "US-OR",
+    "deployment_model": "LOCAL"
+}

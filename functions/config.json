@@ -1,0 +1,10 @@
+[
+    {
+        "name": "noop",
+        "private": true
+    },
+    {
+        "name": "other",
+        "private": false
+    }
+]
